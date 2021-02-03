@@ -1,6 +1,6 @@
 clear all;
 dataset_path = 'C:\Users\Desktop\dead-leaf butterfly';
-% Set datase path
+% Set dataset path
 
 classifier_name = 'Butterfly_HOG';
 % Define a name for the output classifier
