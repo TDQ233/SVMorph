@@ -4,7 +4,7 @@ SVMorph is a machine learning-based pipeline to classify complex morphological c
 We offered two usage examples (dead-leaf butterfly and jumping spider) for the pipeline.
 
 ## Requirements
-SVMorph requires Matlab (version ≥ 2016b) environment. Installations of [Computer Vision Toolbox](https://www.mathworks.com/products/computer-vision.html) and [Machine Learning Toolbox](https://www.mathworks.com/products/statistics.html) are also required.
+SVMorph requires Matlab (version ≥ 2016b) environment. Installations of [Computer Vision Toolbox](https://www.mathworks.com/products/computer-vision.html) and [Statistics and Machine Learning Toolbox](https://www.mathworks.com/products/statistics.html) are also required.
 ## Usage
 
 * Preprocessing 
