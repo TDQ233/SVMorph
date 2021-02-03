@@ -217,5 +217,6 @@ for i = 1:k
     Accuracy_overall = Accuracy_overall + Accuracy;
 end
 
-    Accuracy_overall = Accuracy_overall/k;
     Confusion_M_sum
+    Accuracy_overall = Accuracy_overall/k
+    Feature_dimension
