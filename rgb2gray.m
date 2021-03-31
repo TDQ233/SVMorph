@@ -35,7 +35,7 @@ for i=1:folder_num
 
             grayscale = rgb2gray(image);
             filename = strcat(image_name);
-            im_pathfile=fullfile(file_path,filename);  
+            im_pathfile=fullfile(image_path,filename);  
             imwrite(grayscale,im_pathfile);
         end
     end
